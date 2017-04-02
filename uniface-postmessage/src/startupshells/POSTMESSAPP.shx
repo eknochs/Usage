@@ -73,7 +73,7 @@
  pointer="0" inum="0" ufocc="0" varinfo=",1,0,2,\1F\C3,0,0,0,,0,0,0,," />
 </DSC>
 <OCC>
-<DAT name="UTIMESTAMP">2017-03-13T01:59:03.00</DAT>
+<DAT name="UTIMESTAMP">2017-04-02T05:33:47.00</DAT>
 <DAT name="ULABEL">POSTMESSAPP</DAT>
 <DAT name="UDESCR" xml:space='preserve'>App shell for POSTMESS2</DAT>
 <DAT name="HMAX">APS</DAT>
@@ -82,7 +82,9 @@
 <DAT name="ASYNC" xml:space='preserve'>message/info "Trapped by Startup Shell:- %%$msgId%%%-%%$msgData "</DAT>
 <DAT name="SCREENPIC" xml:space='preserve'>&uFRM;TYP=F&uSEP;NAM=MESSAGE&uSEP;WID=80&uSEP;HEI=1&uSEP;HOC=80&uSEP;VOC=1&uFRM;
 &uFRM;TYP=F&uSEP;NAM=FORMAREA&uSEP;WID=80&uSEP;HEI=23&uSEP;HOC=80&uSEP;VOC=23&uFRM;</DAT>
-<DAT name="LISTING" xml:space='preserve'>To show how Shell ASYNCH trigger will pick up a message if the target instance is not active</DAT>
+<DAT name="LISTING" xml:space='preserve'>To show how Shell ASYNCH trigger will pick up a message if the target instance is not active.
+
+now under version control</DAT>
 <DAT name="WINPROP" xml:space='preserve'>SETUP=&uSEP;CAPTION=&uSEP;CANRESIZE=&uSEP;CANICONIZE=&uSEP;CANZOOM=&uSEP;SYSMENU=&uSEP;CANCLOSE=&uSEP;IMAGE=&uSEP;MAXIMIZEDFORMS=</DAT>
 <DAT name="PREP" xml:space='preserve'>; URD-level user authentication for WEB applications:
 ; Select one of the following methods to authenticate the user:
